@@ -1,6 +1,6 @@
 # Medium’s API documentation
 
-This repository contains the documentation for [Medium](https://medium.com)’s API.
+This repository contains the documentation for [Kimola](https://kimola.com)’s API.
 
 #### Contents
 
