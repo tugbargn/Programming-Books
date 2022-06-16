@@ -1,4 +1,4 @@
-# Medium’s API documentation
+# Kimola’s API documentation
 
 This repository contains the documentation for [Kimola](https://kimola.com)’s API.
 
@@ -24,7 +24,7 @@ All requests must be secure, i.e. `https`, not `http`.
 
 #### Developer agreement
 
-By using Medium’s API, you agree to our [terms of service](https://medium.com/@feerst/2b405a832a2f).
+By using Kimola’s API, you agree to our [terms of service](https://medium.com/@feerst/2b405a832a2f).
 
 ## 2. Authentication
 
