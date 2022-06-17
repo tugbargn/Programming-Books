@@ -4,7 +4,7 @@ This repository contains the documentation for [Kimola](https://kimola.com)’s 
 
 #### Contents
 
-- [Overview](#1.overview)
+- [Overview](#1-overview)
 - [Authentication](#2-authentication)
   - [Browser-based authentication](#21-browser-based-authentication)
   - [Self-issued access tokens](#22-self-issued-access-tokens)
